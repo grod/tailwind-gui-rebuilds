@@ -103,20 +103,20 @@ import Image from "../../components/unsplash/Image.svelte";
             </div>
             <div class="relative">
                 <div class="absolute top-0 text-xs uppercase tracking-wide font-light" style="font-size:0.6rem">Featured</div>
-                <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent">
+                <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent hover:text-gray-800">
                     Sustainability
                 </a>
             </div>
-            <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent">
+            <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent hover:text-gray-800">
                 Wallpapers
             </a>
-            <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent">
+            <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent hover:text-gray-800">
                 COVID-19
             </a>
-            <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent">
+            <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent hover:text-gray-800">
                 Travel
             </a>
-            <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent">
+            <a href="/" class="block pb-4 pt-3 border-b-2 border-transparent hover:text-gray-800">
                 Nature
             </a>
         </div>
