@@ -79,7 +79,7 @@ import Image from "../../components/unsplash/Image.svelte";
 
 
 <div class="flex flex-col font-medium text-sm text-gray-600">
-    <div>
+    <div class="sticky top-0 z-10 bg-white">
         <div class="flex px-4 py-3">
             <svg class="w-8 h-8" viewBox="0 0 32 32" aria-labelledby="unsplash-home" aria-hidden="false"><title id="unsplash-home">Unsplash Home</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg> 
             <div class="flex flex-1 items-center ml-4 px-3 py-2 rounded-full text-sm font-normal bg-gray-200">
