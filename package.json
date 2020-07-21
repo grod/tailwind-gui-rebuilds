@@ -7,8 +7,7 @@
     "dev:routify": "routify run",
     "build": "run-s build:routify build:svite",
     "build:svite": "svite build",
-    "build:routify": "routify run -b",
-    "deploy": "npm run build && firebase deploy"
+    "build:routify": "routify run -b"
   },
   "dependencies": {
     "@sveltech/routify": "^1.9.4",
