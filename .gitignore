@@ -2,3 +2,5 @@ node_modules
 dist
 .routify
 .firebase
+# Local Netlify folder
+.netlify
