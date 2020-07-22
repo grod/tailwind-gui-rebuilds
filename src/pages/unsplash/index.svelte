@@ -124,7 +124,7 @@ import Image from "../../components/unsplash/Image.svelte";
 
     <div class="relative flex flex-col" style="background-image:url(https://images.unsplash.com/photo-1569875949045-767b9dd8f916?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&dpr=1&auto=format%2Ccompress&fit=crop&w=1399&h=594)">
         <div class="absolute inset-0 bg-opacity-50 bg-black" />
-        <div class="relative container mx-auto pt-32 pb-32">
+        <div class="relative w-full max-w-3xl mx-auto pt-32 pb-32">
             <h1 class="text-5xl font-bold text-white">Unsplash</h1>
             <div class="mt-2 font-normal text-lg text-white">
                 The internet’s source of <a href="/" class="underline text-gray-300 hover:text-white">freely-usable</a> images.<br />
