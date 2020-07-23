@@ -1,15 +1,16 @@
 <script>
     const files = [
         { name: 'public', type: 'folder', commit: 'Initial commit', timeAgo: '2 days ago' },
-        { name: 'src', type: 'folder', commit: 'Typo', timeAgo: '2 days ago' },
+        { name: 'src', type: 'folder', commit: 'Hover states', timeAgo: '13 minutes ago' },
         { name: '.gitignore', commit: 'Initial commit', timeAgo: '2 days ago' },
+        { name: 'README', commit: 'Created README', timeAgo: '3 minutes ago' },
         { name: 'index.html', commit: 'noindex', timeAgo: '2 days ago' },
         { name: 'package-lock.json', commit: 'Initial commit', timeAgo: '2 days ago' },
         { name: 'package.json', commit: 'removed firebase configs', timeAgo: '2 days ago' },
         { name: 'postcss.config.js', commit: 'Initial commit', timeAgo: '2 days ago' },
         { name: 'routify.config.js', commit: 'Initial commit', timeAgo: '2 days ago' },
         { name: 'svelte.config.js', commit: 'Initial commit', timeAgo: '2 days ago' },
-        { name: 'tailwind.config.js', commit: 'Initial commit', timeAgo: '2 days ago' },
+        { name: 'tailwind.config.js', commit: 'Added Netlify', timeAgo: 'yesterday' },
         { name: 'tailwind.default.config.js', commit: 'Initial commit', timeAgo: '2 days ago' },
         { name: 'vite.config.js', commit: 'Initial commit', timeAgo: '2 days ago' },
     ]
