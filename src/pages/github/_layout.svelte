@@ -135,21 +135,21 @@
                     <div class="w-3/12 h-2 border-l-2 border-gray-300 bg-yellow-400" />
                     <div class="w-1/12 h-2 border-l-2 border-gray-300 bg-purple-800" />
                 </div>
-                <div class="flex items-center mt-2 text-xs">
+                <a href="/" class="group flex items-center mt-2 text-xs hover:text-blue-600">
                     <div class="ml-1 w-2 h-2 rounded-full bg-red-600" />
                     <div class="ml-3 font-semibold">HTML</div>
-                    <div class="ml-1 text-gray-600">74.3%</div>
-                </div>
-                <div class="flex items-center mt-1 text-xs">
+                    <div class="ml-1 text-gray-600 group-hover:text-blue-600">74.3%</div>
+                </a>
+                <a href="/" class="group flex items-center mt-1 text-xs hover:text-blue-600">
                     <div class="ml-1 w-2 h-2 rounded-full bg-yellow-400" />
                     <div class="ml-3 font-semibold">JavaScript</div>
-                    <div class="ml-1 text-gray-600">25.6%</div>
-                </div>
-                <div class="flex items-center mt-1 text-xs">
+                    <div class="ml-1 text-gray-600 group-hover:text-blue-600">25.6%</div>
+                </a>
+                <a href="/" class="group flex items-center mt-1 text-xs hover:text-blue-600">
                     <div class="ml-1 w-2 h-2 rounded-full bg-purple-800" />
                     <div class="ml-3 font-semibold">CSS</div>
-                    <div class="ml-1 text-gray-600">0.1%</div>
-                </div>
+                    <div class="ml-1 text-gray-600 group-hover:text-blue-600">0.1%</div>
+                </a>
             </div>
         </div>
     </div>
