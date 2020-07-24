@@ -20,6 +20,10 @@
                 <a href="/github" class="flex justify-center items-center p-4 rounded-full bg-white shadow-md hover:shadow-lg">
                     <img src="github-logo.png" class="h-10" alt="GitHub" />
                 </a>
+                <a href="/playpilot" class="flex justify-center items-center p-4 rounded-full bg-white shadow-md hover:shadow-lg">
+                    <img src="playpilot-logo.png" class="h-10" alt="Playpilot" />
+                    <div class="ml-3 justify-center font-medium text-2xl text-gray-800">Playpilot</div>
+                </a>
         </div>
     </div>
 </div>
