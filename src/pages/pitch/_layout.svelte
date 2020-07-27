@@ -11,7 +11,7 @@
             </button>
         </header>
 
-        <div class="flex justify-between px-10 py-1">
+        <div class="flex justify-between px-8 py-1">
             <button class="group block text-left">
                 <div class="flex items-center font-medium text-sm group-hover:text-gray-600 transition duration-100">
                     <span>Company update</span>
