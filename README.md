@@ -1,4 +1,4 @@
-Speedrunning front-end dev.
+Speedrunning styling
 
 Rules: Max 1h
 
